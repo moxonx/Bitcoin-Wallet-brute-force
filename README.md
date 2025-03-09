@@ -17,7 +17,7 @@ Before using this script, ensure you have the following:
 ## Installation
 1. Clone this repository (if applicable):
    ```bash
-   git clone https://github.com/2Px1ONE/Bitcoin-Wallet-brute-force.git
+   git clone https://github.com/moxonx/Bitcoin-Wallet-brute-force.git
    cd bitcoin-wallet-generator
    ```
 2. Install the required Python packages:
